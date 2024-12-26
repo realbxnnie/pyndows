@@ -1,0 +1,14 @@
+WARNING: Install python from https://python.org before launching.
+WARNING: Windows method wasn't checked. If it doesn't works, try to launch "build.sh" by using Windows Subsystem for Linux.
+
+[ LINUX & OSX ]
+1. Open terminal in the Pyndows folder.
+2. Type: "sh build.sh".
+3. Type: "sh main.sh".
+4. Enjoy!
+
+[ WINDOWS ]
+1. Open terminal in the Pyndows folder.
+2. Type "start build.bat".
+3. Type: "start main.bat".
+4. Enjoy!
