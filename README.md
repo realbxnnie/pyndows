@@ -4,7 +4,7 @@ Pyndows is an **"OS"** which is working directly from your computer's terminal. 
 ### Linux & OSX:
 1. Open terminal in **Pyndows**'s root folder
 2. Type: `sh build.sh`
-3. After getting a "Successfully installed" message, type command: `sh main.sh`
+3. After getting a "Successfully built Pyndows" message, type: `sh main.sh`
 4. Enjoy!
 
 ### Windows:
@@ -12,5 +12,5 @@ Pyndows is an **"OS"** which is working directly from your computer's terminal. 
 > This method hasn't been checked. If it doesn't works, try to launch the **Linux** version using **WSL**.
 1. Open terminal in **Pyndows**'s root folder
 2. Type: `start build.bat`
-3. After getting a "Successfully installed" message, type command: `start main.bat`
+3. After getting a "Successfully built Pyndows" message, type: `start main.bat`
 4. Enjoy!
