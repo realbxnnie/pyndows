@@ -1,5 +1,5 @@
 # **What is Pyndows?**
-Pyndows is an **"OS"** working directly from your computer's terminal. It's made on Python and has Windows look.
+Pyndows is an **"OS"** which is working directly from your computer's terminal. It's made on Python and has Windows look.
 # **How to use Pyndows?**
 ### Linux & OSX:
 1. Open terminal in **Pyndows**'s root folder
