@@ -7,7 +7,7 @@ if errorlevel 1 goto errorNoPython
 :: Execute stuff...
 
 pip install pyfiglet colorama pillow survey
-echo "python bin/main.py" > main.bat
+echo "cd bin && python main.py" > main.bat
 echo "Sucessfully built Pyndows, to launch it, type in terminal: 'start main.bat'."
 
 :: Once done, exit the batch file -- skips executing the errorNoPython section
