@@ -1,5 +1,5 @@
 WARNING: Install python from https://python.org before launching.
-WARNING: Windows method wasn't checked. If it doesn't works, try to launch "build.sh" by using Windows Subsystem for Linux.
+WARNING: Windows method hasn't been checked. If it doesn't works, try to launch "build.sh" by using Windows Subsystem for Linux.
 
 [ LINUX & OSX ]
 1. Open terminal in the Pyndows folder.
